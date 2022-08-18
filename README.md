@@ -6,4 +6,4 @@ Nicolle Alexandra Palacios,
 David Santiago Quiroga,
 Helberth Alejandro Garcia, 
 Daniel Becerra,
-Yaquelin Cruz,
+Yaquelin Cruz, yo soy la analista
